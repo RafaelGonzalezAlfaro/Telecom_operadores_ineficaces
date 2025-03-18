@@ -13,6 +13,7 @@ Esto permitirá a los supervisores identificar áreas de mejora en el rendimient
 **Pruebas de Hipotesis:** Se realizaron pruebas de hipotesis para observar si la tasa de llamadas perdidas no está correlacionada con el tiempo de espera y si hay alguna diferencia en el tiempo de espera entre operadores eficientes e ineficientes.
 
 Herramientas utilizadas en este proyecto:
+
 ![Python](https://img.shields.io/badge/python-357ebd?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23357ebd.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-357ebd?style=for-the-badge)
